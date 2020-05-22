@@ -2,6 +2,9 @@
 
 <p align="center">Presented by R.G.</p>
 
++ [本README更好的排版和阅读体验](https://blog.csdn.net/qq_41709370/article/details/106292047)
++ [更加简要的README(只包含快速上手)](./simpler_README.md)
+
 **如不想阅读详细实现原理，请直接阅 *读SM3hmac快速上手(使用手册)* 部分**
 
 **注：**
@@ -14,7 +17,7 @@
 
   ## 目录大纲
 
-  **github好像不支持展示md的目录，还有些排版问题，为了更好的阅读体验，建议到我的CSDN博客看项目介绍。**
+  **github好像不支持展示md的目录，还有些排版问题，为了更好的阅读体验，建议到[我的CSDN](https://blog.csdn.net/qq_41709370/article/details/106292047)看项目介绍。**
 
 [TOC]
 
