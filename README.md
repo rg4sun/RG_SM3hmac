@@ -40,6 +40,8 @@
 
 SampleTest文件夹存储了由 RandMsgGen.py 形成的 1KB、10KB、50KB、100KB、1MB、10MB、50MB、100MB共计8个量级的测试用例，分别命名为msg1k.txt、msg10k.txt、msg50k.txt、msg100k.txt、msg1M.txt、msg10M.txt、msg50M.txt、msg100M.txt。（注：考虑到txt文件UTF-8编码下的文件头等相关信息的影响，实际生成的文件大小稍有偏差，但仍能满足量级）
 
+**注：由于github普通上传的单个文件大小不能超过50MB，这里没有把msg50M.txt、msg100M.txt上传进去**
+
 同时，此文件夹存储了测试结果数据的截图，例如 [100k文件测试结果截图](./TestSample/测试结果截图/100K/100k1.png)
 
 <img src="./TestSample/测试结果截图/100K/100k1.png" alt="100k文件测试结果截图" style="zoom:50%;" />
