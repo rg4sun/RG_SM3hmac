@@ -4,7 +4,17 @@
 
 **如不想阅读详细实现原理，请直接阅 *读SM3hmac快速上手(使用手册)* 部分**
 
-**注：本README有少量数学公式需要LaTeX支持，github貌似没有原生支持LaTeX，若您在阅读本README时无法正确显示数学公式，请安装支持LaTeX显示的浏览器插件，我推荐 MathJax Plugin for Github 插件**
+**注：**
+
+- **本README有少量数学公式需要LaTeX支持，github貌似没有原生支持LaTeX，若您在阅读本README时无法正确显示数学公式，请安装支持LaTeX显示的浏览器插件，我推荐 MathJax Plugin for Github 插件**
+
+- **注：如果你的github无法看到图片的话，请参考我的这篇文章**
+
+  [解决Github无法显示图片以及README无法显示图片](https://blog.csdn.net/qq_41709370/article/details/106282229)
+
+  ## 目录大纲
+
+  **github好像不支持展示md的目录，还有些排版问题，为了更好的阅读体验，建议到我的CSDN博客看项目介绍。**
 
 [TOC]
 
